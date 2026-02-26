@@ -1,1 +1,31 @@
+Tugas PRETEST
+1. Apa itu SDLC
+SDLC (Software/System Development Life Cycle) adalah metodologi terstruktur dan berulang yang digunakan oleh tim pengembangan untuk membangun, memberikan, dan memelihara sistem perangkat lunak berkualitas tinggi dan hemat biaya.
 
+2. Mengapa dibutuhkan SDLC?
+Karena SDLC membantu pemangku kepentingan memperkirakan biaya proyek dan kerangka waktu, mengidentifikasi tantangan potensial dan menangani faktor risiko di awal siklus pengembangan. Hal ini juga membantu mengukur kemajuan pengembangan, meningkatkan dokumentasi dan transparansi, serta menyelaraskan proyek perangkat lunak dengan tujuan organisasi.
+
+3. Sebut dan jelaskan macam-macam SDLC!
+  1. Waterfall
+  Model waterfall adalah model pengembangan perangkat lunak yang linear dan berurutan, di mana satu tahap harus diselesaikan sebelum tahap berikutnya dimulai. Ini menyediakan proses terstruktur dan dapat diprediksi yang bekerja untuk proyek-proyek yang terdefinisi dengan baik dan stabil di mana para pemangku kepentingan ingin terlibat hanya selama tinjauan milestone utama.
+
+  2. V-model
+  V-model, atau model V-shape, adalah variasi dari model waterfall dan kadang-kadang disebut sebagai model "verifikasi dan validasi". Dalam V-model, setiap fase SDLC memiliki fase pengujian yang menyertainya sendiri.
+
+  3. Agile
+  Model tangkas beroperasi berdasarkan siklus perbaikan dan pengembangan berkelanjutan—sering disebut "sprint"—di mana para pengembang secara teratur membuat dan merilis perubahan kecil dan bertahap. Metode ini sangat cocok untuk proyek-proyek di mana klien bersedia dan mampu berpartisipasi dalam diskusi dan ulasan kemajuan secara berkala.
+
+  4. Lean
+  Model lean menerapkan prinsip dan praktik manufaktur ke dalam pengembangan perangkat lunak untuk mengurangi pemborosan di setiap tahap SDLC. Lean bertujuan untuk terus meningkatkan proses bisnis selama pengembangan. Tim secara teratur menetapkan tujuan jangka pendek dengan standar tinggi untuk jaminan kualitas di setiap langkah pengembangan.
+
+  5. Iteratif
+  Dalam model iteratif, versi awal perangkat lunak—atau produk minimal yang layak (MVP)—dibuat dengan cepat, kemudian diperbaiki secara bertahap melalui versi-versi berikutnya. Model ini berfokus pada memulai dengan target kecil dan kemudian membangun perangkat lunak dari sana.
+
+  6. Spiral
+  Dalam model spiral, empat fase—menentukan tujuan, analisis sumber daya dan risiko, pengembangan dan pengujian dan perencanaan untuk iterasi berikutnya—terjadi dalam siklus berulang, sesuai dengan nama "spiral". Dengan pengulangan rutin keempat fase ini, terdapat banyak kesempatan untuk melakukan koreksi, sehingga model ini sangat cocok untuk proyek-proyek berisiko tinggi atau kompleks yang memerlukan banyak perubahan. 
+
+  7. Rapid Aplication Development (RAD)
+  Seperti namanya, pengembangan aplikasi cepat (RAD) bergantung pada prototyping cepat dan masukan pengguna daripada periode perencanaan yang panjang. Struktur ini memungkinkan tim RAD untuk dengan cepat menyesuaikan diri dengan kebutuhan dan permintaan pengguna yang baru.
+
+  8. Big bang
+  Big Bang adalah bentuk pengembangan perangkat lunak yang informal dan tidak terstruktur, yang tidak memiliki definisi model yang ketat seperti yang biasanya terkait dengan SDLC. Seperti teori big bang, model ini dimulai dari ketiadaan — tidak ada perencanaan atau analisis kebutuhan. Hal ini dianggap berisiko tinggi, tetapi model big bang dapat bekerja dengan baik untuk proyek-proyek kecil di mana parameter-parameternya sudah jelas, sehingga perencanaan dan pengelolaan yang detail tidak diperlukan.
